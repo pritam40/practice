@@ -1,0 +1,12 @@
+.landing_img1{
+    margin-top: 10px;
+    width: 100%;
+    display: grid;
+    justify-content: center;
+
+}
+.landing_img1 > img{
+    width: 450px;
+    object-fit: cover;
+
+}

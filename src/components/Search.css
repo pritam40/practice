@@ -1,0 +1,20 @@
+.searchbox{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+    column-gap: 10px; 
+  
+}
+.searchbox Button{
+    letter-spacing: 2px;
+    font-weight: 600;
+
+}
+
+.searchbox Button:hover{
+    
+    background-color: lightcyan;
+    color:black;
+   
+}
